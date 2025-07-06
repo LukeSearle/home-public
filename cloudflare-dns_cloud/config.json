@@ -2,7 +2,7 @@
   "cloudflare": [
     {
       "authentication": {
-        "api_token": __CF-TOKEN__
+        "api_token": "__CF-TOKEN__"
       },
       "zone_id": "4d414e1b700a383f6568ad22b51adaa6",
       "subdomains": [
